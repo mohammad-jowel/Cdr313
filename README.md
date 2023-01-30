@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Cdr313
 - 👀 I’m interested in games and anime's 
-- 🌱 I’m currently learning html+css+JavaScript 
+- 🌱 I’m currently learning cs50's web programming
 - 💞️ I’m looking to collaborate on web deb
 - 📫 Reach me : mrjester016@gmail.com
 
