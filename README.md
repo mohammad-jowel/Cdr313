@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @mohammad-jowel
-- 👀 I’m interested in games and anime's 
 - 🌱 I’m currently learning cs50's web programming
 - 💞️ I’m looking to collaborate on web deb
 - 📫 Reach me : mohammadjowel313@gmail.com
